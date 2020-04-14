@@ -9,10 +9,5 @@ var winH    = $(window).height(),
 $(".slider, .carousel-item1 ,.News-cover").height(winH-(upperH+navH));
 $(".slider, .carousel-item1 ,.News-cover").width($(window).width());
 });
-  $(".btn-primary").click(function(){ 
-    $(".btn-primary").css({
-    "background-color": "#782045",
-    "border-color": "#782045"
-    });
-});
+
 })

@@ -74,7 +74,7 @@ body
     {
         height:100px;
         width:180px;
-        margin-right: 130px;
+        margin-right: 120px;
     }
 .nav-bar .navbar-nav li a
 {
@@ -95,15 +95,14 @@ body
       display: block;
       left: 0;
       right: auto;
-      padding: 7px 20px;
+      padding: 7px 10px;
     }
 .nav-bar .navbar-nav .dropdown .dropdown-menu li a:hover,
 .nav-bar .navbar-nav .dropdown .dropdown-menu li a:focus
 {
    background-color: #d8d9d8;
-    padding-left:30px;
+    padding-left:20px;
 }
-    /*End nav bar*/
     /*End nav bar*/
      .test
      {
@@ -344,7 +343,6 @@ body
      .footer .footer-logo .logo
      {
       margin-left: 400px;
-      width: 230px;
      }
      .footer .copyright
      {

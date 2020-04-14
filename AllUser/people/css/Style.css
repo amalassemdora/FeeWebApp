@@ -19,7 +19,7 @@ body
 }
 .upper-bar nav ul
 {
-   margin-left: 300px;
+   margin-left: 200px;
 }
 .upper-bar nav ul li .form-control{
     display: none;
