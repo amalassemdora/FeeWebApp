@@ -6,8 +6,6 @@ $(document).ready(function(){
 var winH    = $(window).height(),
     upperH  = $('.upper-bar').innerHeight(),
     navH    = $('.nav-bar').innerHeight();
-$(".slider, .carousel-item1 ,.News-cover").height(winH-(upperH+navH));
-$(".slider, .carousel-item1 ,.News-cover").width($(window).width());
+$(".slider, .carousel-item1").height(winH-(upperH+navH));
 });
-
 })
