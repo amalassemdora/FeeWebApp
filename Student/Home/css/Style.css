@@ -135,19 +135,35 @@ body
    }
    /*End Slider*/
    /*about-main*/
+
+.frame
+{ 
+    box-shadow: inset 0 0 0 6px #741a40;
+    -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+    height: 330px;
+    width: 430px;
+    margin: 70px
+}
+.frame img
+{
+    max-width: 100%;
+    -webkit-transform: translate(30px, 30px);
+    -ms-transform: translate(30px, 30px);
+    transform: translate(30px, 30px);
+    height: 330px;
+    width: 430px;
+   
+}
    .about-main h2{
       margin-top: 80px;
       color: #741a40;
       font-weight: bold;
-      text-align: center;
+      text-align:left;
    
    }
-   .about-main p{
-      
-      margin-left: 400px;
-      margin-right: 400px;
-      margin-bottom: 80px;
-   }
+   
    /*Strat cardes*/
    .card
    {

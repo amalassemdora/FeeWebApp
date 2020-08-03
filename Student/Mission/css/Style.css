@@ -123,24 +123,24 @@ body
 }
 /*End cover*/
 
-/*start history*/ 
-.history h1
+/*start mission*/
+.Mission h1
 {
     color: #741a40;
     margin-top: 80px;
     margin-bottom: 20px;
 }
-.History-text
+.Mission-text
 {
-     margin-left: 100px;
+    margin-left: 100px;
     margin-right: 100px;
     margin-bottom: 80px;
     line-height: 30px;
     text-align: left;
 }
-.History-text li
+.Mission-text li
 {
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 /*End history*/

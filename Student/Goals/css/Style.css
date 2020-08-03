@@ -123,24 +123,23 @@ body
 }
 /*End cover*/
 
-/*start history*/ 
-.history h1
+/*start Goals*/  
+.goals h1
 {
     color: #741a40;
     margin-top: 80px;
     margin-bottom: 20px;
 }
-.History-text
+.goals-text
 {
-     margin-left: 100px;
+    margin-left: 100px;
     margin-right: 100px;
     margin-bottom: 80px;
     line-height: 30px;
     text-align: left;
 }
-.History-text li
-{
-    margin-bottom: 20px;
+.goals-text li{
+    margin-bottom: 10px;
 }
 
 /*End history*/
